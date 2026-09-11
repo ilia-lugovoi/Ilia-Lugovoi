@@ -1,4 +1,4 @@
-BI/Data Analyst с опытом реальной экономической аналитики в Яндексе и самостоятельной разработки end-to-end аналитических решений.
+BI Engineer с опытом реальной экономической аналитики в Яндексе и самостоятельной разработки end-to-end аналитических решений.
 
 <br>
 
@@ -9,4 +9,4 @@ BI/Data Analyst с опытом реальной экономической ан
 **Автоматизация:** автоматизирую регулярные расчеты и отчетность, чтобы сокращать ручную работу и делать аналитику воспроизводимой.
 
 <br>
-SQL | Python | Power BI | DAX | dbt | DataLens | Superset | PostgreSQL | ClickHouse
+SQL | Python | Power BI | Superset | DataLens | dbt | PostgreSQL | ClickHouse | Airflow
